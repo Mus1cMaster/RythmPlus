@@ -50,7 +50,8 @@
     ],
     "publishChangesOnly": true,
     "uniqCompNum": 1,
-    "versionPublish": "5.5.0"
+    "versionPublish": "5.5.0",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
